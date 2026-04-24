@@ -9,9 +9,9 @@ from flask import Flask, request, jsonify
 import logging
 import sys
 # ╔══════════════════════════════════════════════════════════════════╗
-# ║  CREATOR: TARIKUL ISLAM
-# ║  TELEGRAN: https://t.me/paglu_dev
-# ║  PERSONAL TELEGRAM: https://t.me/itzpaglu
+# ║  CREATOR: SAHIL
+# ║  TELEGRAN: https://t.me/rajputxlikegroup
+# ║  PERSONAL TELEGRAM: https://t.me/@rajputxsahil
 # ╚══════════════════════════════════════════════════════════════════╝
 
 # Configure logging
