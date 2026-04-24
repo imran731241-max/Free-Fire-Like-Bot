@@ -11,7 +11,7 @@ import sys
 # ╔══════════════════════════════════════════════════════════════════╗
 # ║  CREATOR: SAHIL
 # ║  TELEGRAN: https://t.me/rajputxlikegroup
-# ║  PERSONAL TELEGRAM: https://t.me/@IMRANXLIKE
+# ║  PERSONAL TELEGRAM: @IMRANXLIKE
 # ╚══════════════════════════════════════════════════════════════════╝
 
 # Configure logging
