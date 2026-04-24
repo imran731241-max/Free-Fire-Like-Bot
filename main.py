@@ -31,7 +31,7 @@ if not BOT_TOKEN:
 REQUIRED_CHANNELS = ["@rajputxlike1"]
 GROUP_JOIN_LINK = "https://t.me/https://t.me/rajputxlikegroup"
 OWNER_ID =8311041202
-OWNER_USERNAME = "@rarajputxsahil"
+OWNER_USERNAME = "rarajputxsahil"
 
 
 bot = telebot.TeleBot(BOT_TOKEN)
