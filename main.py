@@ -28,7 +28,7 @@ if not BOT_TOKEN:
     logger.error("❌ BOT_TOKEN not found! Please set your bot token in environment variables.")
     sys.exit(1)
 
-REQUIRED_CHANNELS = ["@rajputxlike1"]
+REQUIRED_CHANNELS = ["@rajputxlikegroup1"]
 GROUP_JOIN_LINK = "https://t.me/https://t.me/rajputxlikegroup"
 OWNER_ID =8311041202
 OWNER_USERNAME = "@IMRANXLIKE"
@@ -73,7 +73,7 @@ def is_user_in_channel(user_id):
 
 
 def call_api(region, uid):
-    url = f"https://free-fire-like-api-znfz.vercel.app//like?uid={uid}&server_name={region}"
+    url = f"https://free-fire-like-api-e8ns.vercel.app//like?uid={uid}&server_name={region}"
     try:
         response = requests.get(url, timeout=20)
         if response.status_code != 200:
