@@ -83,7 +83,7 @@ PORT=5000                                # Optional: Default is 5000
     <img src="https://img.shields.io/badge/Owner-🔥%20@IMRANXLIKE-pink?style=for-the-badge&logo=telegram" />
   </a>
   <a href="https://t.me/paglu_dev">
-    <img src="https://img.shields.io/badge/Channel-TARIKUL.dev-blue?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/Channel-RAJPUT X LIKE-blue?style=for-the-badge&logo=telegram" />
   </a>
 </p>
 
